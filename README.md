@@ -100,7 +100,7 @@ To run the trained navigation policy:
 │   └── Astra.proto              # Robot model definition
 ├── requirements.txt             # Python dependencies
 └── README.md                    # This file
-
+```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
