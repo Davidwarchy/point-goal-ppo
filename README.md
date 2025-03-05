@@ -2,6 +2,8 @@
 
 This repository contains an implementation of Point Goal navigation using Proximal Policy Optimization (PPO) for a two-wheeled robot in Webots.
 
+![alt text](run.gif)
+
 ## Robot Description
 
 The implementation uses a two-wheeled differential drive robot that navigates in maze environments. The robot is equipped with:
